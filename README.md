@@ -29,6 +29,9 @@ student-management-system/
 ├── database.sql       # Database structure
 └── README.md
 
+# Live Demo
+https://drive.google.com/file/d/1PBA_dvhl6NQjJ5kVV-4pYahTitw0F19e/view?usp=drivesdk
+
 # ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/Rimsha93/student_system.git
